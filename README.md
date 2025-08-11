@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Medical-Chatbot-Generative-AI
 
 
@@ -130,3 +131,6 @@ open up localhost:
    - OPENAI_API_KEY
 
     
+=======
+# Medical-Chatbot-GenAI
+>>>>>>> 4c05de03ec29f77da7df59fc3472f57935e70abc
